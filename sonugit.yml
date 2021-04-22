@@ -1,4 +1,6 @@
-me: This playbook is for my webserver
+---
+-
+  name: This playbook is for my webserver
   hosts: localhost
   connection: local
 
